@@ -7,8 +7,8 @@ Ionic Fly Cart is an IONIC framework animated plugin based on SASS for fly cart 
 * Manage the click events of cart container.
 
 ## Scrrens
-![Alt ion-circular-menu](/screens/screen_01.jpg)
-![Alt ion-circular-menu](/screens/screen_02.gif)
+<img src='/screens/screen_01.jpg' width=285px>
+<img src='/screens/screen_02.gif' width=285px>
 
 ## Usage
 
